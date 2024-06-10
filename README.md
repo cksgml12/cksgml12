@@ -2,7 +2,6 @@
 <h3 align="center">developer interested in Deep learning, specifically Computer Vision 🖥️</h3>
 
 
-<h2 align="center"> major in Applied Artificial Intelligence in Sungkyunkwan University
 
 
 <h3 align="left">Languages and Tools:</h3>
